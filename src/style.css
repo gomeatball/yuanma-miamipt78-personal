@@ -1,5 +1,10 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+
 
 body{
     background: white;
+}
+
+img {
+    height: 400px;
+    width: 200px;
 }
